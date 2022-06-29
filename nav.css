@@ -19,13 +19,13 @@
    width: 70px;
    height: 60px;
    color: white;
-   font: 15px/60px '微软雅黑'，'黑体';
+   font: 15px/60px '微软雅黑','黑体';
  }
  nav ul li a:hover{
    dispaly: block;
    width: 70px;
    height: 60px;
    color: white;
-   font: 15px/60px '微软雅黑'，'黑体';
+   font: 15px/60px '微软雅黑','黑体';
    background: #3f3f3f;
  }
